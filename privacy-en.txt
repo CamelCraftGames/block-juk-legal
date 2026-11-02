@@ -1,0 +1,85 @@
+BLOCK JUK — PRIVACY POLICY AND TURKISH DATA PROTECTION NOTICE
+Version: 2026-11-02.1 | Updated: 2 November 2026
+Application identifier: app.blockjuk.com
+
+1. Controller and contact
+
+Block Juk is offered under the developer brand Apexion games. The publisher and the controller for processing it carries out as described here is Baran Billor. Contact Apexion00@outlook.com with questions, support requests or personal data requests. “We” means the publisher. This notice explains the current game version and your support communications with us. Processing by independent stores and device services is described separately.
+
+A privacy policy provides information. Using the game, opening this notice or accepting the terms of use does not constitute explicit consent to advertising tracking or marketing. Any information and permission required for a new processing activity must be provided separately.
+
+2. Current data flows
+
+The game has no user account, sign-in system, player messaging or online leaderboard. There is no live advertising, in-app payment or subscription service. The publisher has not added an active remote player analytics or automatic error-reporting service. Game code does not send your local scores, moves or settings to a publisher server. Core gameplay does not require an email address or telephone number.
+
+This does not mean that no data is processed anywhere: records on your device, support messages you choose to send, and independent services such as Google Play are explained separately below.
+
+3. Game records on your device
+
+The game stores your highest score, number of games played, total lines cleared, highest combo and completed-run counter on your device. This maintains records, statistics and game flow. In this version, the completed-run counter does not cause advertisements to be shown or information to be reported externally. Whether the introductory assistance has already been used is also stored to manage repetition of that assistance.
+
+Your language, sound and motion/shake preferences are remembered. The device's system language is read to select an initial suitable language; you can change it in the game. The accepted terms version, document language and acceptance date and time in UTC according to the device clock are stored to remember acceptance of the current terms. These are not advertising permission or verified identity records. The device clock is not guaranteed to be accurate. The current board and unfinished run are held temporarily in device memory and may be lost when the game closes.
+
+4. Permissions and information we do not request
+
+The current game does not ask for your name, address, birth date, identity document or payment card. Gameplay does not access contacts, photographs, the camera, microphone or precise location. It does not use an advertising identifier or create an in-game personalised advertising profile. We do not sell your personal data. We do not use personal-data-based automated decisions that produce legal or similarly significant effects on players. Calculations relating to piece distribution and game difficulty are not such a legal assessment system.
+
+Information you include yourself in a support message may reach us. Do not send unnecessary passwords, payment codes, card details, identity documents, health information or another person's private information. Hide information about other people or apps in a screenshot before sending it.
+
+5. Support correspondence
+
+If you email us, we process your email address, the sender name shown in the message, its contents, attachments and correspondence dates. Device model, operating system and app version are also used to investigate an issue if you choose to provide them. This information is not sent automatically from the game. The purposes are to understand and answer your request, resolve the issue, communicate the result and, where necessary, protect a specific right. Support is not required for offline play, although withholding necessary details may limit investigation of a particular problem.
+
+For a personal data request, necessary and proportionate additional information may be requested to confirm that the request concerns you and that you are authorised. Do not send an identity document in the first message. Information that is not legally necessary or is unrelated to the request will not be requested. Support correspondence is not used for advertising targeting or creating marketing lists.
+
+6. Collection methods and legal grounds
+
+Local game records are generated automatically on the device as you play or choose settings. They are not sent to the publisher. To the extent they constitute personal data, processing necessary to provide the game service you choose and remember settings relates to entering into or performing a contract under Article 5(2)(c) of Türkiye's Personal Data Protection Law No. 6698 (KVKK). The terms acceptance record is kept, where necessary, to establish, exercise or protect a right under Article 5(2)(e).
+
+Support information is collected through electronic correspondence you initiate. Article 5(2)(c) applies to information necessary to address issues concerning performance of the service; Article 5(2)(ç) to legal duties such as responding to statutory requests; and Article 5(2)(e) to information necessary to establish, exercise or protect a right in a specific dispute. Each ground covers only information needed for the relevant purpose. A separate activity requiring explicit consent, where no other legal condition is available, is not started merely on the basis of general acceptance of the terms.
+
+7. Recipients and reasons for sharing
+
+Local game records are not held on a publisher server and are not sent by us to advertising networks or data brokers. Our support address uses Microsoft Outlook.com. Support emails pass through this email infrastructure to receive and answer messages. The relevant provider may process message content and delivery information to the extent required to supply that service.
+
+Only information legally required is shared with competent authorities. If legal advice is needed for a specific request or dispute, relevant information may be provided to an adviser as necessary and with appropriate confidentiality measures. Support records are not published publicly. You can ask our support address for details of providers and sharing. Independent store and backup services are explained below.
+
+8. Processing outside your country
+
+Current game code does not automatically transfer data to a publisher server. However, the email service used for support and store or device backup services may use infrastructure in different countries. It would therefore be inaccurate to say that all information remains only in Türkiye. Each independent service's information can also be consulted.
+
+Where the publisher is responsible for an international transfer, a valid transfer condition under Article 9 of the KVKK and other applicable rules must be met. This notice, general acceptance of the terms, or sending us a message does not by itself provide unlimited permission for international transfers. Required assessment and information must be provided before enabling a new provider or data flow.
+
+9. Android backup and Google Play
+
+Depending on your device and account settings, Android may back up local app records or transfer them to another device. Operating-system backup has not been separately disabled in the game's current settings. Uninstalling the app does not necessarily delete all system backups; old records may return when the app is reinstalled. You can manage backups through your device and relevant account settings. The publisher cannot access these backups.
+
+Google Play and Android may process information within their own services for downloads, store accounts, security, reviews and platform crash or performance reports. Reports and feedback made available to the publisher depend on those platforms' operation. This is different from game code sending your moves to an analytics server. Google's privacy information and relevant account choices apply to those services. Opening an external link from the game may also engage that site's data practices.
+
+10. Retention
+
+Records and game preferences may remain on the device until you change them or clear local app data. The terms acceptance record is kept in local settings to remember acceptance. Clearing app data removes these records too; check your own settings for separate operating-system backups.
+
+Support correspondence is retained for as long as needed to resolve the particular request and, where necessary, follow up on the solution. Once a request is closed and there is no continuing duty or need to protect a specific right, unnecessary records are deleted or made non-identifying. If a statutory retention period, open dispute or necessary legal process applies, only relevant information is retained for the period required by that need. Criteria include the request's subject, closure date, applicable legal periods and dispute status. Records are not kept indefinitely merely because they might be useful one day.
+
+11. Deletion and security
+
+“Reset best score” resets only the highest score. To remove all local statistics, preferences and acceptance records, use the clear-storage/clear-data option in Android's app information settings. Menu names vary by device and the action may be irreversible. There is no central game account to close. The publisher cannot remotely view or delete offline records on your device. You can ask our contact address to delete support information you sent us; any mandatory retention exception will be explained with its reason.
+
+Local records are stored in the app's settings area; the game does not apply an additional encryption layer to them. Device locks and operating-system security matter. Access to support records held by the publisher must be limited to those who need it, with appropriate technical and organisational measures against unlawful access, loss or disclosure. No system can promise absolute security. Applicable investigation, notification and remediation duties remain in force if a breach occurs.
+
+12. Your rights and requests
+
+Where the KVKK applies, you may learn whether your personal data is processed, request information about that processing, ask its purpose and whether it is used accordingly, and learn the recipients within or outside Türkiye. You may request correction of inaccurate or incomplete information, deletion or destruction where legal conditions are met, and notification of these actions to relevant recipients. You may object to an adverse result arising solely from automated analysis and seek compensation for damage caused by unlawful processing.
+
+You can contact Apexion00@outlook.com; legally prescribed application methods remain available. Explain your request and how to contact you. Proportionate verification of identity and authority may be requested where necessary. Requests under the KVKK are resolved as soon as possible and within 30 days at the latest. A response and, where applicable, the reason for refusal will be provided. Complaints to the Turkish Personal Data Protection Board and judicial remedies remain available subject to legal requirements and the required order of applications. Additional rights under another applicable law, such as access, portability, restriction or objection, also remain protected.
+
+13. Children and legal representatives
+
+The game is intended for players aged 13 and above; do not use it if you are younger. If you lack legal capacity to contract in your country, your legal representative must review these terms and provide required permission. This age limit does not replace store content ratings or local age/permission rules for data processing. The app does not verify your age through this selection. This version does not ask for a birth date, identity document or parental details. Where possible a legal representative should submit support enquiries about a child without sending unnecessary child data.
+
+Please provide only necessary information in a request concerning a child. If unnecessary child data is received, appropriate steps will be taken to remove it, taking account of legal retention or protection-of-rights requirements. Stating a target age does not mean that age is technically verified or that all permissions concerning children have automatically been obtained.
+
+14. New features and policy updates
+
+If advertising, purchases, online accounts or analytics are added, actual data flows, recipients, purposes, legal grounds and retention conditions will be reassessed. This policy and required store disclosures will be updated before new processing starts, with required permissions and choices presented separately. Earlier acceptance of the terms does not grant unlimited permission for new purposes. The current version and date appear at the beginning, and material changes will be communicated appropriately. Turkish and English texts are intended to cover the same scope; translation differences do not reduce statutory data protection rights.
